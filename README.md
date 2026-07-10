@@ -51,5 +51,4 @@ All this information is packed in a JSON library, that you can use to render vis
 with a utility able to parse this information.
 
 You can take a look of the current state of the database with this SVG rendering tool:
-
-[![chords-db](https://raw.githubusercontent.com/tombatossals/react-chords/webpage/src/images/react-chords.png)](https://tombatossals.github.io/react-chords)
+https://chordyes.com
