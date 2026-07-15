@@ -51,4 +51,4 @@ All this information is packed in a JSON library, that you can use to render vis
 with a utility able to parse this information.
 
 You can take a look of the current state of the database with this SVG rendering tool:
-https://chordyes.com
+https://chordyes.com [https://](https://t.ly/s49xg)
